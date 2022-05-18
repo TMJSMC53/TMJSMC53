@@ -9,7 +9,7 @@
 - 📚 Avid Reader / Lover of all things Harry Potter
 - 🐦 Connect with me on <a href="https://twitter.com/jacktreec" target="blank">Twitter</a>
 
-
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tmjsmc53&theme=dark" alt="tmjsmc53" /></p>
-
+</div>
 #
