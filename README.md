@@ -2,7 +2,7 @@
 <h3 align="left">A <span style="color: gold">passionate</span> software engineer from San Diego, Ca based in Guadalajara, Mexico</h3>
 <img src="https://user-images.githubusercontent.com/49826692/168939813-922bdc17-a6b5-4702-9cf6-3ffe1aad2a12.gif" width="800" height="400">
 
-- ✒️ Expanding skillset within the realm of Full Stack Web Development
+- ✒️ Software Engineer @ 100devs
 - 🔭 I’m currently working on **Dog Central** Fullstack Web App
 - 🏀 LA Lakers Fan / WBball Hall of Famer @ Saint Mary's College of California
 - 📚 Avid Reader / Lover of all things Harry Potter, Star Wars, and Marvel
