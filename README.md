@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋🏽, I'm Triola Michelle</h1>
 <h3 align="left">A <span style="color: gold">passionate</span> software engineer from San Diego, Ca based in Guadalajara, Mexico</h3>
 <img src="https://user-images.githubusercontent.com/49826692/214142108-011b15e2-c411-4b1b-9b5e-05e8b4996b99.png"
- width="800" height="400">
+ style="max-width: 100%" alt="banner">
 
 - ✒️ Software Engineer @ 100devs
 - 🔭 I’m currently working on **Dog Central** Fullstack Web App
