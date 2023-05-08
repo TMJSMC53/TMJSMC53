@@ -4,7 +4,7 @@
  style="max-width: 100%" alt="banner">
 
 - ✒️ Software Engineer @ 100devs
-- 🔭 I’m currently working on **Cozina Station** Fullstack Web App
+- 🔭 I’m currently working on **LakerHub App** Fullstack Web App
 - 🏀 LA Lakers Fan / WBball Hall of Famer @ Saint Mary's College of California
 - 📚 Avid Reader / Lover of all things Harry Potter, Star Wars, and Marvel
 - 🐦 Connect with me on <a href="https://twitter.com/jacktree_coding" target="blank">Twitter</a>
