@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋🏽, I'm Triola Michelle</h1>
-<h3 align="left">A <span style="color: gold">passionate</span> full-stack web developer from San Diego, Ca based in Guadalajara, Mexico</h3>
+<h3 align="left">A <span style="color: gold">passionate</span> full-stack software engineer from San Diego, Ca based in Guadalajara, Mexico for almost 15 years</h3>
 <img src="https://user-images.githubusercontent.com/49826692/214142108-011b15e2-c411-4b1b-9b5e-05e8b4996b99.png"
  style="max-width: 100%" alt="banner">
 
-- ✒️ Software Engineer @ **Holistic Health**
+- ✒️ Software Engineer @ **The Reading Pod**
 - 🏀 LA Lakers Fan / WBball Hall of Famer @ Saint Mary's College of California
 - 📚 Avid Reader / Lover of all things Harry Potter, Star Wars, and Marvel
 - 🐦 Connect with me on <a href="https://twitter.com/jacktree_coding" target="blank">Twitter</a>
